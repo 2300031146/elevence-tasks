@@ -19,7 +19,7 @@
 
 ## 📊 Tasks Overview
 
-### **Task 1: Critical failure** 
+### **Task 1: ✅ Critical failure** 
 
 **Status:** Completed  
 **Objective:** Investigate the correlation between product pricing and customer satisfaction levels.
@@ -179,7 +179,7 @@ This project demonstrates:
 
 | Task # | Title | Status | Link |
 |--------|-------|--------|------|
-| 1 | Pricing vs Satisfaction | ⏳ Pending | — |
+| 1 | Pricing vs Satisfaction |✅ Completed  |  [Critical failure](https://github.com/2300031146/Critical-failure) |
 | 2 | Promotion Effectiveness | ✅ Completed | [promotion-effectiveness-trend-analysis](https://github.com/2300031146/promotion-effectiveness-trend-analysis-) |
 | 3 | Discount vs Rating | ✅ Completed | [Discount-vs-rating-analysis](https://github.com/2300031146/Discount-vs-rating-analysis) |
 | 4 | Financial Risk Assessment | ✅ Completed | [Financialy-risk-inventory-analysis](https://github.com/2300031146/Financialy-risk-inventory-analysis) |
